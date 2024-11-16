@@ -17,4 +17,4 @@ function getColorIndex()
 	return (Math.floor(colorsArray.length * Math.random()));
 }
 
-const body = document.q
+const body = document.querySelector("#body")
