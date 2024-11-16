@@ -21,11 +21,13 @@ const body = document.querySelector("body");
 
 const btn = document.querySelector(".btn");
 
+const bt = document.querySelector(".btn");
+
 function changeBackgroundColor(color)
 {
 	const color = index[getColorIndex()];
 
-	
+
 }
 
 
