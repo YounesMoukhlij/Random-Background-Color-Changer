@@ -1,4 +1,4 @@
-const colors =
+const colorsArray =
 [
 	"#2C3E50",
 	"#34495E",
@@ -14,5 +14,5 @@ const colors =
 
 function getColorIndex()
 {
-	return (Math.floor(colorsArray))
+	return (Math.floor(colorsArray) * )
 }
