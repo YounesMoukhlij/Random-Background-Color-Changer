@@ -23,7 +23,9 @@ const btn = document.querySelector(".btn");
 
 function changeBackgroundColor(color)
 {
-	const color = index[getCol()]
+	const color = index[getColorIndex()];
+
+	
 }
 
 
