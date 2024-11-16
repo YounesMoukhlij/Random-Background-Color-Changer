@@ -36,7 +36,7 @@ function changeBackgroundColor()
 }
 
 
-const btn = document.querySelector("#btn");
+const btn = document.querySelector("#btnn");
 btn.onclick = changeBackgroundColor;
 
 
