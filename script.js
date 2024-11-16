@@ -22,14 +22,6 @@ const colorsArray =
 
 	"##CD5C5C",
 	"##CD5C5C",
-	"##CD5C5C",
-	"#FECD33",
-	"#FECD33",
-	"#FECD33",
-	"#FECD33",
-	"#FECD33",
-	"#FECD33",
-	"#FECD33",
 
 ]
 
