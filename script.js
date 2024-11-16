@@ -19,5 +19,5 @@ function getColorIndex()
 
 const body = document.querySelector("body");
 
-const btnn = doceum
+const btnn = document.querySelector("")
 
