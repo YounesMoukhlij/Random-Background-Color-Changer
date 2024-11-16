@@ -14,6 +14,6 @@ const colorsArray =
 
 function getColorIndex()
 {
-	return (Math.floor(colorsArray) * Math.random());
+	return (Math.floor(colorsArray.length * Math.random());
 }
 
