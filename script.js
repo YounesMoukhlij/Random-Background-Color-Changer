@@ -21,5 +21,5 @@ const body = document.querySelector("body");
 
 const btnn = document.querySelector(".btn");
 
-btnn
+btnn.oncli
 
