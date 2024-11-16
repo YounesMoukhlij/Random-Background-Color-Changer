@@ -39,6 +39,6 @@ function changeBackgroundColor()
 const btn = document.querySelector("#btnn");
 // btn.onclick = changeBackgroundColor;
 
-
+btn.addEventListener('click', changeBackgroundColor);
 
 
