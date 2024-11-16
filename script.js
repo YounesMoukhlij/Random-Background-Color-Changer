@@ -12,14 +12,14 @@ const colorsArray =
 	"#800020",
 ]
 
+const body = document.querySelector("body");
+
+const hex = document.querySelector("#hex");
 function getColorIndex()
 {
 	return (Math.floor(colorsArray.length * Math.random()));
 }
 
-const body = document.querySelector("body");
-
-const hex = document.querySelector("#hex");
 
 function changeBackgroundColor()
 {
