@@ -21,13 +21,13 @@ const body = document.querySelector("body");
 
 const btn = document.querySelector("btn");
 
-const hex = document.querySelector("hex");
+const hex = document.querySelector("#hex");
 
 function changeBackgroundColor(color)
 {
 	const color = index[getColorIndex()];
 
-	hex.innerText
+	hex.innerText = color;
 
 }
 
