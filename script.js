@@ -1,1 +1,4 @@
-const colors
+const colors[] =
+{
+	
+}
