@@ -23,7 +23,7 @@ const btn = document.querySelector("#btn");
 
 const hex = document.querySelector("#hex");
 
-function changeBackgroundColor(color)
+function changeBackgroundColor()
 {
 	const color = index[getColorIndex()];
 
