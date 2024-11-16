@@ -25,7 +25,7 @@ const colorsArray =
 
 const body = document.querySelector("body");
 const hex = document.querySelector("#hex");
-const img =
+const img = document.querySelector(.)
 
 
 function getColorIndex()
