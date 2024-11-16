@@ -16,3 +16,4 @@ function getColorIndex()
 {
 	return (Math.floor(colorsArray) * Math.random());
 }
+
