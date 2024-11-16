@@ -17,4 +17,4 @@ function getColorIndex()
 	return (Math.floor(colorsArray.length * Math.random()));
 }
 
-const 
+const body = qu
