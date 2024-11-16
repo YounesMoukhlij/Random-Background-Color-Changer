@@ -12,4 +12,7 @@ const colors =
 	"#800020",
 ]
 
-function getColorIndex
+function getColorIndex()
+{
+	return (Math.floor())
+}
