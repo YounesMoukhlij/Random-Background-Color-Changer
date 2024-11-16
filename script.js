@@ -32,6 +32,5 @@ function changeBackgroundColor(color)
 
 }
 
-
 btn.onclick = changeBackgroundColor;
 
