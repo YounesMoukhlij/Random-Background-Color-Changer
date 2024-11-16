@@ -25,7 +25,7 @@ function getColorIndex()
 
 function changeBackgroundColor()
 {
-	const color = index[getColorIndex];
+	const color = colorsArray[getColorIndex()];
 	
 	console.log(color);
 	hex.innerText = ;
