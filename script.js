@@ -17,8 +17,8 @@ const colorsArray =
 	"#FECD33",
 	"##581845",
 
-	
-	"#FECD33",
+
+	"##CD5C5C",
 	"#FECD33",
 	"#FECD33",
 	"#FECD33",
