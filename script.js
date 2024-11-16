@@ -11,6 +11,8 @@ const colorsArray =
 	"#2C3E50",
 	"#800020",
 	"#767e8a",
+	"#afcf23",
+	
 ]
 
 const body = document.querySelector("body");
