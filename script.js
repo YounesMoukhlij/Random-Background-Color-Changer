@@ -27,7 +27,7 @@ function changeBackgroundColor(color)
 {
 	const color = index[getColorIndex()];
 
-	body.inne
+	hex.inn
 
 }
 
