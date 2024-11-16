@@ -25,7 +25,7 @@ const colorsArray =
 
 const body = document.querySelector("body");
 const hex = document.querySelector("#hex");
-const img = document.querySelector(".img");
+
 
 
 function getColorIndex()
@@ -46,6 +46,6 @@ function changeBackgroundColor()
 const btn = document.querySelector(".btn");
 btn.onclick = changeBackgroundColor;
 
-img.onclick = 
+
 
 
