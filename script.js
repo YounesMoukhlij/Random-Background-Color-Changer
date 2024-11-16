@@ -16,10 +16,10 @@ const colorsArray =
 	"#e86f05",
 	"#FECD33",
 	"##581845",
-
-
 	"##CD5C5C",
-	"#FECD33",
+	"##FFA07A",
+
+	
 	"#FECD33",
 	"#FECD33",
 	"#FECD33",
