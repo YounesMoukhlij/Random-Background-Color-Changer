@@ -21,7 +21,7 @@ body
 
 }
 
-.credit
+.footer
 {
 	text-align: center;
 	padding: 50ex;
@@ -38,7 +38,3 @@ body
 	size: fixed;
 }
 
-.footer
-{
-	position: center;
-}
