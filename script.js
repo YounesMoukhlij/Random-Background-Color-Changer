@@ -27,7 +27,6 @@ function changeBackgroundColor()
 {
 	const color = colorsArray[getColorIndex()];
 	
-	console.log(color);
 	hex.innerText = color;
 	body.style.backgroundColor = color;
 	
