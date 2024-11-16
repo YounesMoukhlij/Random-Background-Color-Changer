@@ -21,7 +21,7 @@ const body = document.querySelector("body");
 
 const btn = document.querySelector(".btn");
 
-const bt = document.querySelector(".btn");
+const hex = document.querySelector(".hex");
 
 function changeBackgroundColor(color)
 {
