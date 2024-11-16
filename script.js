@@ -12,3 +12,4 @@ const colors =
 	"#800020",
 ]
 
+function get
