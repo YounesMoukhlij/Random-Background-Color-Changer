@@ -21,7 +21,10 @@ const body = document.querySelector("body");
 
 const btn = document.querySelector(".btn");
 
-function CHe
+function changeBackgroundColor(color)
+{
+	
+}
 
 
 btn.onclick = changeBackgroundColor;
