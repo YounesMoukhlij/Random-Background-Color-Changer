@@ -19,18 +19,19 @@ function getColorIndex()
 
 const body = document.querySelector("body");
 
-const btn = document.querySelector("#btn");
 
 const hex = document.querySelector("#hex");
 
 function changeBackgroundColor()
 {
 	const color = index[getColorIndex()];
-
+	
 	hex.innerText = color;
 	body.style.backgroundColor = color;
-
+	
 }
 
+
+const btn = document.querySelector("#btn");
 btn.onclick = changeBackgroundColor;
 
