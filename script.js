@@ -19,9 +19,9 @@ function getColorIndex()
 
 const body = document.querySelector("body");
 
-const btn = document.querySelector(".btn");
+const btn = document.querySelector("btn");
 
-const hex = document.querySelector(".hex");
+const hex = document.querySelector("hex");
 
 function changeBackgroundColor(color)
 {
