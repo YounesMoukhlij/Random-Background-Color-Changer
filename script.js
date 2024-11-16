@@ -33,7 +33,6 @@ function changeBackgroundColor()
 	
 	hex.innerText = color;
 	body.style.backgroundColor = color;
-	
 }
 
 
