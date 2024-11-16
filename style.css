@@ -34,5 +34,5 @@ body
 .text
 {
 	color: aliceblue;
-	background-image: linear-gradient()
+	background-image: linear-gradient(rgb);
 }
