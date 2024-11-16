@@ -19,3 +19,5 @@ function getColorIndex()
 
 const body = document.querySelector("body");
 
+cons
+
