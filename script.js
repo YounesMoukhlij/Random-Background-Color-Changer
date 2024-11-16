@@ -18,8 +18,6 @@ const colorsArray =
 	"##581845",
 	"##CD5C5C",
 	"##FFA07A",
-
-
 	"##CD5C5C",
 	"##CD5C5C",
 
