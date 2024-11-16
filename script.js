@@ -27,6 +27,7 @@ function changeBackgroundColor(color)
 {
 	const color = index[getColorIndex()];
 
+	
 
 }
 
