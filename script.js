@@ -14,5 +14,5 @@ const colors =
 
 function getColorIndex()
 {
-	return (Math.floor())
+	return (Math.floor(colorsArray))
 }
